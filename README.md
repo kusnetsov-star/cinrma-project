@@ -1,2 +1,2 @@
-# cinrma-project
+# cinеma-project
 Учебный проект PHTT
